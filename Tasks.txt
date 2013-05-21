@@ -1,0 +1,13 @@
+ From Blackboard
+ 
+ We will use the geolocation information for:
+  * putting markers on the map, and the tweet text (Eddie)
+  * plotting volume over time, and per city (Eddie, using Google graph API)
+  * creating histograms of the number of tweets per country, and per city for the netherlands (Hester and Jana)
+  * how many people post queensday over koniningendag, and whether the difference is statistically significant (Hester and Jana)
+  * generating term clouds per city (50 more frequent terms) (Hester and Jana) 
+  * performing sentiment analysis per city (Leo, needs sentiment lexicon)
+  * finding what were the most retweeted tweets (Leo)
+    * how many RTs there are in the corpus
+
+Deadline: 24 May

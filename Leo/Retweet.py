@@ -39,8 +39,8 @@ if __name__ == '__main__' :
 		
 		pickle.dump(RetweetedSorted, RTFreq)
 		# RTFreqtxt.write('{0}'.format(RetweetedSorted[:25]))
-		# print RetweetedSorted[:25]
-		return RetweetedSorted[:25]
+		print RetweetedSorted[:50]
+		return RetweetedSorted[:50]
 
 	# Retrieve tweets in db for top 25 retweeted users
 	
@@ -50,7 +50,7 @@ if __name__ == '__main__' :
 
 	# ------------- Function Calls -------------------------------
 
-	RetweetFreq(100)
+	RetweetFreq(757950)
 
 
 

@@ -1,0 +1,1 @@
+sample = ['aanfluiting', 'aangeklaagde','aangenaam','aangeslagen','aangeven','aanhouder','aankleding']
